@@ -22,7 +22,7 @@
 
 ### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 
 ---
 
@@ -32,6 +32,7 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript) 
 
 ---
 
