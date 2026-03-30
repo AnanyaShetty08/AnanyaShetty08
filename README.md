@@ -20,11 +20,10 @@
 
 ### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+
 ---
 
 ### 🌐 Web Development
