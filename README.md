@@ -30,13 +30,6 @@
 
 ## 📊 Performance & Activity
 
-### 🏆 GitHub Trophies
-[![github-trophies](https://github-profile-trophy.vercel.app/?username=AnanyaShetty08&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 Statistics
-| **GitHub Stats** | **Most Used Languages** |
-| :--- | :--- |
-| ![Ananya's Stats](https://github-readme-stats.vercel.app/api?username=AnanyaShetty08&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaShetty08&layout=compact&theme=tokyonight&hide=html,css) |
 
 ### 📅 Contribution Graph
 ![Ananya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnanyaShetty08&theme=tokyonight)
