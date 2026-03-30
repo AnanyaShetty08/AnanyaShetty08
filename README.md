@@ -18,10 +18,10 @@
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
