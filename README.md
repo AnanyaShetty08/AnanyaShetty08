@@ -32,7 +32,7 @@
 
 
 ### 📅 Contribution Graph
-![Ananya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnanyaShetty08&theme=tokyonight)
+![Ananya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnanyaShetty08&theme=dark&font=baloo&ext=heatmap)
 
 ---
 
