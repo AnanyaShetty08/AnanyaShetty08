@@ -20,7 +20,7 @@
 
 ### 💻 Programming Languages
 
-### 💻 Programming Languages
+
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus) ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python) ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 
