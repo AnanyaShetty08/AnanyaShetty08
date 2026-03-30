@@ -67,7 +67,7 @@
 ## 🌐 Connect With Me
 
 * 📧 Email: [sheetyanayab@gmail.com](mailto:shettyananyab@gmail.com)
-* 💼 LinkedIn: [LinkedIn Prle](https://www.linkedin.com/in/ananya-shetty-6b4139293/))
+* 💼 LinkedIn: [Ananya Shetty](https://www.linkedin.com/in/ananya-shetty-6b4139293/))
 
 ---
 
